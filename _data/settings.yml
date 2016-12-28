@@ -1,0 +1,56 @@
+# General
+
+title: Bucky Maler
+description: Thinker // Developer // Leader
+email: maler.bucky@gmail.com
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Skills, url: '#skills'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+#------------------------------
+# About Section
+
+blurb: >
+  **I craft front-end codes** for human folks to enjoy. I'm a computer science and bootcamp graduate. My obsession is writing readable, modular, and performant code. I'm currently seeking employment.
+
+#------------------------------
+# Skills Section
+
+skills:
+- {name: JavaScript, image: 'javascript'}
+- {name: React, image: 'react'}
+- {name: jQuery, image: 'jquery'}
+- {name: Backbone, image: 'backbone'}
+- {name: Electron, image: 'electron'}
+- {name: Gulp, image: 'gulp'}
+- {name: HTML5, image: 'html5'}
+- {name: CSS3, image: 'css3'}
+- {name: Sass, image: 'sass'}
+- {name: npm, image: 'npm'}
+- {name: Bower, image: 'bower'}
+- {name: Git, image: 'git'}
+- {name: GitHub, image: 'github'}
+- {name: Jekyll, image: 'jekyll'}
+- {name: WordPress, image: 'wordpress'}
+
+#------------------------------
+# Work Section
+
+projects:
+- {name: Fitness, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Apollo, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Global, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: GitHub Clone, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Dribbb, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Simply2do, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Jekyll Starter Kit, folder: 'proj-6', file: 'work/proj-6.html'}
+
+#------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/BuckyMaler'}
+- {icon: 'github', link: 'https://github.com/BuckyMaler'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/buckymaler'}
