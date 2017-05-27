@@ -21,6 +21,7 @@ blurb: >
 skills:
 - {name: JavaScript, image: 'javascript'}
 - {name: React, image: 'react'}
+- {name: Angular, image: 'angular'}
 - {name: jQuery, image: 'jquery'}
 - {name: Backbone, image: 'backbone'}
 - {name: Electron, image: 'electron'}

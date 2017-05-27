@@ -22,6 +22,7 @@ This portfolio was developed with HTML5, Sass, jQuery, and Jekyll.
   - [React](https://creativecommons.org/licenses/by/3.0/) logo modified with removal of background color
   - [Sass](https://creativecommons.org/licenses/by-nc-sa/3.0/)
   - [WordPress](https://wordpress.org)
+  - [Angular](https://creativecommons.org/licenses/by/4.0/)
 
 ## Misc:
 
