@@ -22,19 +22,20 @@ skills:
 - {name: JavaScript, image: 'javascript'}
 - {name: React, image: 'react'}
 - {name: Angular, image: 'angular'}
-- {name: jQuery, image: 'jquery'}
 - {name: Backbone, image: 'backbone'}
+- {name: jQuery, image: 'jquery'}
 - {name: Electron, image: 'electron'}
+- {name: Redux, image: 'redux'}
+- {name: ngrx, image: 'ngrx'}
+- {name: Jest, image: 'jest'}
+- {name: Jasmine, image: 'jasmine'}
+- {name: Webpack, image: 'webpack'}
 - {name: Gulp, image: 'gulp'}
 - {name: HTML5, image: 'html5'}
 - {name: CSS3, image: 'css3'}
 - {name: Sass, image: 'sass'}
-- {name: npm, image: 'npm'}
-- {name: Bower, image: 'bower'}
 - {name: Git, image: 'git'}
 - {name: GitHub, image: 'github'}
-- {name: Jekyll, image: 'jekyll'}
-- {name: WordPress, image: 'wordpress'}
 
 #------------------------------
 # Work Section
@@ -47,6 +48,7 @@ projects:
 - {name: Dribbb, folder: 'proj-5', file: 'work/proj-5.html'}
 - {name: Simply2do, folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: Jekyll Starter Kit, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Channels, folder: 'proj-8', file: 'work/proj-8.html'}
 
 #------------------------------
 # Contact Section
