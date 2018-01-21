@@ -61,20 +61,19 @@
 
     .thumb-overlay
       +position(absolute)
-      +align-items(center)
-      +justify-content(space-around)
-      +display(flex)
       background: fade-out($accent, 0.1)
-      text-align: center
       @extend %animationstart_#{$animation}
 
       strong
+        +position(absolute, 50% null null 50%)
+        +transform(translate(-50%, -50%))
         display: block
         padding: 0 9%
         color: white
         font:
           weight: 300
           size: 24px
+        text-align: center
         text-transform: uppercase
         line-height: 1.2
 
