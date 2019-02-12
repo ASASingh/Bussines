@@ -2,7 +2,6 @@
 
 This portfolio was developed with HTML5, Sass, jQuery, and Jekyll.
 
-[LIVE PREVIEW](http://buckymaler.com)
 
 ## Credits
 
